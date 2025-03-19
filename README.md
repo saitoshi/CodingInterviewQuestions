@@ -1,8 +1,12 @@
 # Coding Practice Set
 
-The following repository contains solutions written for practice problem in the Mastering Algorithm and Data Structure and Big Tech (FAANG) Question.
+The following repository contains solutions written for practice problem in the Mastering Algorithm and Data Structure and Big Tech (FAANG) Question. <br/>
 
 The solutions are written in JavaScript and Python.
+
+## Problem 01 String Reversal
+
+For a given string return the reversed outcome.
 
 ## Problem 02 Palindrome
 
