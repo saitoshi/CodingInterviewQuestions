@@ -19,3 +19,7 @@ For a given integer, return the reversed out put
 ## Problem 04 Two Sum
 
 Given an array of integers, return the indicies of two numbers that add up to the given target.
+
+## Problem 05 Find The Max Char
+
+For a given string, find the character with the most frequency.
