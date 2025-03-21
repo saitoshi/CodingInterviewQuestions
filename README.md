@@ -32,6 +32,7 @@ For a program console log numbers from 1 to n, but for multiples of three show "
 
 Given an array and chunk size, divide the array into a subarray where each array is length of the given size
 
-## Problem 08 Trap Water
+## Problem 09 Container With Water
 
-Given an array of integer representing an elevation map where the width of each bar is 1, return how much rainwater can be trapped.
+Given an array of positive integer where each integer represents of a value on a chart. Find two lines which together
+Return the area of water it would hold.
