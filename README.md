@@ -23,3 +23,7 @@ Given an array of integers, return the indicies of two numbers that add up to th
 ## Problem 05 Find The Max Char
 
 For a given string, find the character with the most frequency.
+
+## Problem 06 Fizz Buzz
+
+For a program console log numbers from 1 to n, but for multiples of three show "fizz" and five print "buzz". For number that is a multiple of three and five show "fizzbuzz".
