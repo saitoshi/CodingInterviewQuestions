@@ -31,3 +31,7 @@ For a program console log numbers from 1 to n, but for multiples of three show "
 ## Problem 07 Array Chunking
 
 Given an array and chunk size, divide the array into a subarray where each array is length of the given size
+
+## Problem 08 Trap Water
+
+Given an array of integer representing an elevation map where the width of each bar is 1, return how much rainwater can be trapped.
