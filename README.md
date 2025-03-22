@@ -36,3 +36,7 @@ Given an array and chunk size, divide the array into a subarray where each array
 
 Given an array of positive integer where each integer represents of a value on a chart. Find two lines which together
 Return the area of water it would hold.
+
+## Problem 10 Anagram Detector
+
+Given two strings, determine whether the two strings are anagram from one another.
