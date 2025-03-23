@@ -44,3 +44,7 @@ Given two strings, determine whether the two strings are anagram from one anothe
 ## Problem 11 Capitalize First Letter Of Every Word
 
 For a given string, capitalize the first letter of the string
+
+## Problem 12 Printing Steps
+
+Write a function that accepts positive number N and the function should console log a step shape with N levels using # char
