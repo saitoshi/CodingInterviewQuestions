@@ -40,3 +40,7 @@ Return the area of water it would hold.
 ## Problem 10 Anagram Detector
 
 Given two strings, determine whether the two strings are anagram from one another.
+
+## Problem 11 Capitalize First Letter Of Every Word
+
+For a given string, capitalize the first letter of the string
