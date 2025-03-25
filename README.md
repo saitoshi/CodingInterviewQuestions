@@ -62,3 +62,11 @@ vowels('Hi There!)
 i -> 1
 e -> 2
 ```
+
+## Problem 15 Longest Length Without Repeating Characters
+
+Given a string, find the length of the longest substring without repeating characters.
+
+```
+nonrepeat("abccabb") -> 3
+```
