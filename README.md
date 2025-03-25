@@ -48,3 +48,7 @@ For a given string, capitalize the first letter of the string
 ## Problem 12 Printing Steps
 
 Write a function that accepts positive number N and the function should console log a step shape with N levels using # char
+
+## Problem 13 Vowel Count
+
+Write a function that takes in a string and returns the number of vowels in the string.
