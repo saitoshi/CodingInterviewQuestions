@@ -52,3 +52,13 @@ Write a function that accepts positive number N and the function should console 
 ## Problem 13 Vowel Count
 
 Write a function that takes in a string and returns the number of vowels in the string.
+
+## Problem 14 Vowel Count
+
+Similar to problem 13, but instead return the indiviudal number of the vowel counts
+
+```
+vowels('Hi There!)
+i -> 1
+e -> 2
+```
