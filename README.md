@@ -1,4 +1,4 @@
-# Coding Practice Set
+# Practice Questions
 
 The following repository contains solutions written for practice problem in the Mastering Algorithm and Data Structure and Big Tech (FAANG) Question. <br/>
 
@@ -70,3 +70,25 @@ Given a string, find the length of the longest substring without repeating chara
 ```
 nonrepeat("abccabb") -> 3
 ```
+
+## Problem 16 - System Designs: To Do List
+
+Suppose that you are developing a To Do List. Answer the following questions centering the following topics.
+
+- Functional Requirements
+- Non-functioal Requirements
+- Capacity Estimation
+- Data Model
+- API Design
+- System Design
+
+## Problem 17 - System Designs: TinyURL
+
+Suppose that you are developing a TinyURL - a system that allows users to shorten a regular URL. Answer the following questions regarding system designs.
+
+- Functional Requirements
+- Non-functioal Requirements
+- Capacity Estimation
+- Data Model
+- API Design
+- System Design

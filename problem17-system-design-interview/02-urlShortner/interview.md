@@ -26,3 +26,13 @@ Supposed you are making a url shortner. Answer the following questions.
 
 - Users should be able to see all of the links they have created
 - The links should expire after a set default time span
+
+### Define three non-functional requirements?
+
+The application should have the following
+
+- high availability
+- scalable
+- low latency
+
+###
