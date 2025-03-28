@@ -100,3 +100,7 @@ For a given array, sort it by using the bubble sort algorithm and return the sor
 ## Problem 19 - Sorting with Selection Sort
 
 For a given array, sort it by using Selection Sort algorithm and return the sorted array.
+
+## Problem 20 - Remove duplicates from sorted array
+
+For a given array, sort it in increasing order and remove the duplicates from the element.
