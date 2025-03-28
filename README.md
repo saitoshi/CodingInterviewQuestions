@@ -96,3 +96,7 @@ Suppose that you are developing a TinyURL - a system that allows users to shorte
 ## Problem 18 - Sorting With Bubble Sort
 
 For a given array, sort it by using the bubble sort algorithm and return the sorted array.
+
+## Problem 19 - Sorting with Selection Sort
+
+For a given array, sort it by using Selection Sort algorithm and return the sorted array.
