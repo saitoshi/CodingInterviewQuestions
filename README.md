@@ -104,3 +104,7 @@ For a given array, sort it by using Selection Sort algorithm and return the sort
 ## Problem 20 - Remove duplicates from sorted array
 
 For a given array, sort it in increasing order and remove the duplicates from the element.
+
+## Problem 22 - Fibbonacci Sequence
+
+Write a function that print outs the n-th entry in the fibonacci series. The fibonacci series is an ordering of numbers where each number is the sum of the preceeding two.
