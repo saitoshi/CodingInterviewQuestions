@@ -108,3 +108,7 @@ For a given array, sort it in increasing order and remove the duplicates from th
 ## Problem 22 - Fibbonacci Sequence
 
 Write a function that print outs the n-th entry in the fibonacci series. The fibonacci series is an ordering of numbers where each number is the sum of the preceeding two.
+
+## Problem 23 - Median Of Two Sorted Array
+
+Given two sorted array nums1 and nums2 of unequal length and return the median of the two sorted array.
