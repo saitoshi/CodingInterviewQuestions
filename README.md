@@ -112,3 +112,7 @@ Write a function that print outs the n-th entry in the fibonacci series. The fib
 ## Problem 23 - Median Of Two Sorted Array
 
 Given two sorted array nums1 and nums2 of unequal length and return the median of the two sorted array.
+
+## Problem 24 - Two Sum
+
+Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
