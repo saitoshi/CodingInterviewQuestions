@@ -116,3 +116,14 @@ Given two sorted array nums1 and nums2 of unequal length and return the median o
 ## Problem 24 - Two Sum
 
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+
+## Problem 25 - Palindrome Integer
+
+Given an integer x, return true if x is a palindrome, and false otherwise.
+
+```
+Input: x = 121
+Output: true
+Explanation: 121 reads as 121 from left to right and from right to left.
+
+```
