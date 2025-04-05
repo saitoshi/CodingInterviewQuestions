@@ -131,3 +131,17 @@ Explanation: 121 reads as 121 from left to right and from right to left.
 ## Problem 26 - Integer To Roman
 
 Given an integer, convert it to a Roman numeral.
+
+## Problem 27 - Roman To Integer
+
+For a given roman numeral, convert it to integer
+
+```
+Input: s = "III"
+Output: 3
+
+
+Input: s = "LVIII"
+Output: 58
+Explanation: L = 50, V= 5, III = 3.
+```
