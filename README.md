@@ -145,3 +145,7 @@ Input: s = "LVIII"
 Output: 58
 Explanation: L = 50, V= 5, III = 3.
 ```
+
+## Problem - 28 Three Sum Partition
+
+For a given array, find the three array and partition it.
