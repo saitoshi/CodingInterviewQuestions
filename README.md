@@ -153,3 +153,5 @@ For a given array, find the three array and partition it.
 ## Problem - 29 Divide Two Integers 
 Given two intergers **dividend** and **divisior**, divide two integers without using any multiplication, divisions, or mod. 
 
+## Problem - 30 Pow(x,n)
+Implement pow(x,n) which calculates x raised to the power of n (i.e. x^n)
