@@ -155,3 +155,7 @@ Given two intergers **dividend** and **divisior**, divide two integers without u
 
 ## Problem - 30 Pow(x,n)
 Implement pow(x,n) which calculates x raised to the power of n (i.e. x^n)
+
+## Problem - 32 Multiply Strings 
+Given two non-negative integers **num1** and **num2** represented as strings, return the product of **num1** and **num2**, also represented as a string. 
+<b>NOTE:</b>You must not use any built-in BigInteger library or convert the inputs to integers directly.
