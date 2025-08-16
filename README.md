@@ -159,3 +159,9 @@ Implement pow(x,n) which calculates x raised to the power of n (i.e. x^n)
 ## Problem - 32 Multiply Strings 
 Given two non-negative integers **num1** and **num2** represented as strings, return the product of **num1** and **num2**, also represented as a string. 
 <b>NOTE:</b>You must not use any built-in BigInteger library or convert the inputs to integers directly.
+
+
+### Problem - 33 Mark Even or Odd 
+
+Given a positive integer x. Your task is to check, if it is even or odd (Any number that gives zero as remainder when divided by 2 is an even number).
+Note: Return "Even" if the number is even; otherwise, return "Odd".
