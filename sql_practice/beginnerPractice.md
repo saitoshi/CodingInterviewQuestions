@@ -64,3 +64,32 @@ select SUM(Price) from products;
 ```
 select MAX(Price), MIN(Price) from products;
 ```
+
+### Exercise 37: Customers by Country
+
+<b>Display the number of customers from each country.</b>
+
+```
+select country, COUNT(*) as CustomerCount from customers group by Country;
+```
+
+### Exercise 38: Countries with More Than 5 Customers
+
+<b>Display only the countries that have more than 5 customers.</b>
+
+```
+select Country, count(*) as CustomerCount from customers group by Country having count(*) > 5;
+```
+
+### Exercise 39: Products Without a Category
+<b>Display all products that do not belong to any category.</b>
+
+```
+select * from products where CategoryID IS NULL;
+```
+### Exercise 40: Categorized Products Over 50
+<b>Display all products that have a category assigned and whose price is greater than 50.</b>
+
+```
+select * from products where CategoryID is not null and Price > 50
+```
