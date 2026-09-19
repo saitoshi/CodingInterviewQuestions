@@ -1,5 +1,5 @@
 ## Intermediate Practice Problems 
-The following are the solutions to the intermediate practice problem sets from the following SQL course on <a href="https://anasystems.udemy.com/course/sql-top-100-real-world-practice-exercises">Udemy</a>.
+The following are the solutions to the intermediate practice problem sets from the following SQL course on <a href="https://udemy.com/course/sql-top-100-real-world-practice-exercises">Udemy</a>.
 
 ### Exercise 41: Products with Categories
 
