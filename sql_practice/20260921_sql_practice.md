@@ -19,3 +19,16 @@ select customers.CustomerID, customers.CustomerName, count(orders.OrderID) as Or
 group by customers.CustomerID
 having Count(orders.CustomerID) > 2
 ```
+
+## Exercise 49: Total Order Value
+<b>PROBLEM</b><br/>
+
+Calculate the total value of all orders in the system.
+- connect the tables using ProductID
+- multiply each ordered Quantity by the product Price
+- add all calculated values together
+- return a single total value
+
+```
+select SUM(order_details.Quantity * products.Price) as TotalOrderValue from order_details join products on order_details.ProductID = products.ProductID
+```
