@@ -16,3 +16,6 @@ def check_odd_even(number):
     else:
         return "Odd"
  ```
+
+ ### PYTHON - AREA OF A TRIANGLE 
+ <b>For a given function, determine the area of a triangle. </b>
