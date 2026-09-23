@@ -82,3 +82,9 @@ def find_primes_in_interval(start, end):
     return intervalList
 ```
 
+## PRACTICE 5 - AI SYSTEM DESIGN 
+
+<b>PROBLEM</b>
+
+Suppose you are designing a chatbot, please provide a breakdown in terms of systems designs. 
+
