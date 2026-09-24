@@ -83,3 +83,7 @@ Suppose you are developing an AI Chatbot, the following are service breakdowns y
 2. A team wants to use an LLM to validate whether a tax ID passes a fixed checksum algorithm. What's the correct assessment?  <br/> No they should not use LLM as this is a deterministic problem. 
 
 3. A team plans to add compliance and audit logging after their AI feature ships, once they know exactly what regulators will ask for. What does the four-responsibilities framework say about this plan?<br/>It will fail as system design was build without the governance in consideration.
+
+4. A team needs to classify support tickets into 20 fixed categories, using two years of labeled historical data, with a hard requirement for low latency and low cost per request. Per the course's decision framework, what's the right approach?<br/> A fine tuned classical ML model trained on the labeled data.
+
+5. 
