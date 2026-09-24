@@ -75,3 +75,11 @@ Suppose you are developing an AI Chatbot, the following are service breakdowns y
 3. Response Generation to create the answer towards user request
 4. Escalation Logic to determine when or where the human will intervene 
 5. Tone Guardrails - what are the legal or cultural regulations the system should follow 
+
+## PRACTICE QUESTIONS 
+
+1. A Solutions Architect say they can own the AI systems. What is the key reason why an AI Architect is still necessary? <br/>While traditional architect concentrates on deterministic functions, AI concentrates on the non deterministic parts. 
+
+2. A team wants to use an LLM to validate whether a tax ID passes a fixed checksum algorithm. What's the correct assessment?  <br/> No they should not use LLM as this is a deterministic problem. 
+
+3. A team plans to add compliance and audit logging after their AI feature ships, once they know exactly what regulators will ask for. What does the four-responsibilities framework say about this plan?<br/>It will fail as system design was build without the governance in consideration.
